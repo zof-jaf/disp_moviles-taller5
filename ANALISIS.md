@@ -2,11 +2,11 @@
 
 Pantalla de perfil de usuario en Jetpack Compose  
 Programación para Dispositivos Móviles — Universidad de Caldas  
-Clase 05 · Unidad 2 · Trabajo individual  
+Clase 05 
 
 ---
 
-## 1. Predicción inicial (escrita ANTES de programar)
+## 1. Predicción inicial
 
 *Estas respuestas se redactaron antes de escribir una sola línea de código y no se modificaron después.*
 
