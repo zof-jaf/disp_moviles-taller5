@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema base de la ventana. Los colores de la app se definen en Compose
+         con MaterialTheme.colorScheme, por lo que aquí solo se fija el fondo. -->
+    <style name="Theme.PerfilUsuario" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#FFFFFF</item>
+    </style>
+</resources>
